@@ -1,4 +1,6 @@
 import './App.css';
+import './Header.css';
+import './Footer.css';
 import Header from './Header';
 import Main from './Main';
 import Side from './Side';

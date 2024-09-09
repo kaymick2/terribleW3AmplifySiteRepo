@@ -1,0 +1,22 @@
+.header {
+    padding: 80px; /* some padding */
+    text-align: center; /* center the text */
+    background: linear-gradient(120deg,turquoise, pink); /* green background */
+    color: white; /* white text color */
+  }
+  .navbar {
+    overflow: hidden;  /* Hide overflow */
+    background-color: #333; /* Dark background color */
+    position: sticky ;
+    top:0;
+  }
+  /* Right-aligned link */
+.navbar a.right {
+  float: right; /* Float a link to the right */
+}
+
+/* Change color on hover/mouse-over */
+.navbar a:hover {
+  background-color: pink; /* Grey background color */
+  color: black; /* Black text color */
+}

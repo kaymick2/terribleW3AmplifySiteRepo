@@ -1,4 +1,5 @@
 import { getDate } from "./App";
+import './Header.css';
 function Header(){
     return (
         <main>

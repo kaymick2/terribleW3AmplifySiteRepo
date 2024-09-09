@@ -1,3 +1,4 @@
+import './Side.css';
 export function Side(){
     return (
         
@@ -9,7 +10,7 @@ export function Side(){
         <h3>me at a bar 2 weeks ago</h3>
         <p>Lorem ipsum dolor sit ame.</p>
         <div className="fakeimg" style={{height:'180px'}}> <img src={require('./this is also me.JPG')} style={{height:'100%', width:'100%',objectFit:'contain'}} alt="me "/></div><br/>
-        <div className="fakeimg" style={{height:'60px'}}>Image</div><br/>
+        <div className="fakeimg" style={{height:'60px'}}>naooooooo</div><br/>
         <div className="fakeimg" style={{height:'60px'}}>Image</div>
       </div>
       
